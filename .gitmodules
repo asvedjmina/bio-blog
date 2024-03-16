@@ -1,4 +1,4 @@
-[submodule "asvedjmina.github.io"]
-	path = asvedjmina.github.io
-	url = https://github.com/asvedjmina/asvedjmina.github.io
-	branch = main
+#[submodule "asvedjmina.github.io"]
+#	path = asvedjmina.github.io
+#	url = https://github.com/asvedjmina/asvedjmina.github.io
+#	branch = main
