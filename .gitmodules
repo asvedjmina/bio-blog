@@ -2,3 +2,7 @@
 #	path = asvedjmina.github.io
 #	url = https://github.com/asvedjmina/asvedjmina.github.io
 #	branch = main
+[submodule "public1"]
+	path = public1
+	url = https://github.com/asvedjmina/asvedjmina.github.io
+	branch = main
