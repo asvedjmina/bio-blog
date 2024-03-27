@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MyWeek | Academic</title>
-    <link>https://example.com/category/myweek/</link>
-      <atom:link href="https://example.com/category/myweek/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/myweek/</link>
+      <atom:link href="http://localhost:1313/category/myweek/index.xml" rel="self" type="application/rss+xml" />
     <description>MyWeek</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>MyWeek</title>
-      <link>https://example.com/category/myweek/</link>
+      <link>http://localhost:1313/category/myweek/</link>
     </image>
     
     <item>
       <title>Как прошла моя неделя?</title>
-      <link>https://example.com/post/week/</link>
+      <link>http://localhost:1313/post/week/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/week/</guid>
+      <guid>http://localhost:1313/post/week/</guid>
       <description>&lt;h2 id=&#34;общее-впечатление&#34;&gt;Общее впечатление&lt;/h2&gt;
 &lt;p&gt;Эта неделя была достаточно утомительной. Ставлю 6.5/10.&lt;/p&gt;
 &lt;h2 id=&#34;что-было&#34;&gt;Что было?&lt;/h2&gt;
