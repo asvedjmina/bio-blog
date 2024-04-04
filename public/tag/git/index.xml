@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git | Academic</title>
-    <link>http://localhost:1313/tag/git/</link>
-      <atom:link href="http://localhost:1313/tag/git/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tag/git/</link>
+      <atom:link href="https://example.com/tag/git/index.xml" rel="self" type="application/rss+xml" />
     <description>Git</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Git</title>
-      <link>http://localhost:1313/tag/git/</link>
+      <link>https://example.com/tag/git/</link>
     </image>
     
     <item>
       <title>Система контроля версий Git.</title>
-      <link>http://localhost:1313/post/git/</link>
+      <link>https://example.com/post/git/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/git/</guid>
+      <guid>https://example.com/post/git/</guid>
       <description>&lt;h2 id=&#34;о-системе-контроля-версий&#34;&gt;О системе контроля версий&lt;/h2&gt;
 &lt;p&gt;Системы контроля версий (Version Control System, VCS) применяются при работе нескольких человек над одним проектом. Обычно основное дерево проекта хранится в локальном или удалённом репозитории, к которому настроен доступ для участников проекта. При внесении изменений в содержание проекта система контроля версий позволяет их фиксировать, совмещать изменения, произведённые разными участниками проекта, производить откат к любой более ранней версии проекта, если это требуется.&lt;/p&gt;
 &lt;p&gt;Системы контроля версий поддерживают возможность отслеживания и разрешения конфликтов, которые могут возникнуть при работе нескольких человек над одним файлом.
