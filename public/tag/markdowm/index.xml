@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown | Academic</title>
-    <link>https://example.com/category/markdown/</link>
-      <atom:link href="https://example.com/category/markdown/index.xml" rel="self" type="application/rss+xml" />
-    <description>Markdown</description>
+    <title>Markdowm | Academic</title>
+    <link>https://example.com/tag/markdowm/</link>
+      <atom:link href="https://example.com/tag/markdowm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdowm</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Markdown</title>
-      <link>https://example.com/category/markdown/</link>
+      <title>Markdowm</title>
+      <link>https://example.com/tag/markdowm/</link>
     </image>
     
     <item>
@@ -74,48 +74,6 @@
 &lt;li&gt;Избегайте использовать последний слайд вида &lt;em&gt;Спасибо за внимание&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Язык разметки Markdown</title>
-      <link>https://example.com/post/markdown/</link>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;h2 id=&#34;оформление-текста&#34;&gt;Оформление текста&lt;/h2&gt;
-&lt;p&gt;Чтобы создать заголовок, используйте знак #, например:&lt;/p&gt;
-&lt;p&gt;один знак #&lt;/p&gt;
-&lt;h1 id=&#34;this-is-heading-1&#34;&gt;This is heading 1&lt;/h1&gt;
-&lt;p&gt;два знака #&lt;/p&gt;
-&lt;h2 id=&#34;this-is-heading-2&#34;&gt;This is heading 2&lt;/h2&gt;
-&lt;p&gt;три знака #&lt;/p&gt;
-&lt;h3 id=&#34;this-is-heading-3&#34;&gt;This is heading 3&lt;/h3&gt;
-&lt;p&gt;четыре знака #&lt;/p&gt;
-&lt;h4 id=&#34;this-is-heading-4&#34;&gt;This is heading 4&lt;/h4&gt;
-&lt;p&gt;Чтобы задать для текста полужирное начертание, заключите его в двойные звездочки:
-This text is &lt;strong&gt;bold&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Чтобы задать для текста курсивное начертание, заключите его в одинарные звездочки:
-This text is &lt;em&gt;italic&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Чтобы задать для текста полужирное и курсивное начертание, заключите его в тройные
-звездочки:
-This is text is both &lt;em&gt;&lt;strong&gt;bold and italic&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Блоки цитирования создаются с помощью символа &amp;gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The drought had lasted now for ten million years&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Чтобы вложить один список в другой, добавьте отступ для элементов дочернего списка:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;List item 1&lt;/li&gt;
-&lt;li&gt;List item A&lt;/li&gt;
-&lt;li&gt;List item B&lt;/li&gt;
-&lt;li&gt;List item 2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Синтаксис Markdown для встроенной ссылки состоит из части [link text], представляющей текст гиперссылки, и части (file-name.md) – URL-адреса или имени файла, на который
-дается ссылка:&lt;/p&gt;
-&lt;p&gt;[ link text ] (file-name.md)&lt;/p&gt;
-&lt;p&gt;Markdown поддерживает как встраивание фрагментов кода в предложение, так и их размещение между предложениями в виде отдельных огражденных блоков. Огражденные блоки
-кода — это простой способ выделить синтаксис для фрагментов кода. Общий формат огражденных блоков кода в ```:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;your code goes in here
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
   </channel>

@@ -211,12 +211,12 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
+      email: 1132236003@pfur.ru
       phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      #appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
+        street: Mikluho-Maklaya, 6
+        city: Moscow
         region: CA
         postcode: '94305'
         country: United States
@@ -230,10 +230,10 @@ sections:
         latitude: '37.4275'
         longitude: '-122.1697'  
       contact_links:
-        - icon: twitter
+        - icon: book
           icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
+          name: eLibrary
+          link: 'https://elibrary.ru/project_user_office.asp'
         - icon: skype
           icon_pack: fab
           name: Skype Me

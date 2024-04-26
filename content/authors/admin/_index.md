@@ -91,10 +91,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+  - icon: google-scholar
+    icon_pack: brands
+    link: https://scholar.google.com/citations?view_op=new_profile&hl=en
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -102,7 +101,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/asvedjmina
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/

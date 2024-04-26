@@ -33,6 +33,106 @@
     </item>
     
     <item>
+      <title>Как прошла моя неделя? 26.04.2024</title>
+      <link>https://example.com/post/week-3/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week-3/</guid>
+      <description>&lt;h2 id=&#34;общее-впечатление&#34;&gt;Общее впечатление&lt;/h2&gt;
+&lt;p&gt;Прошедшая неделя была превосходной. Ставлю 9/10.&lt;/p&gt;
+&lt;h2 id=&#34;что-было&#34;&gt;Что было?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Солнечная и тёплая погода в Москве!&lt;/li&gt;
+&lt;li&gt;Холодный и снежный, но невероятно красивый Санкт-Петербург!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;spb&#34; alt=&#34;spb&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание презентвций в markdown.</title>
+      <link>https://example.com/post/how-to-make-prezentations/</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/how-to-make-prezentations/</guid>
+      <description>&lt;h1 id=&#34;рассмотрим-структуру-презентации&#34;&gt;Рассмотрим структуру презентации&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Вводная часть.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;1.1 Актуальность:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Важно донести результаты своих исследований до окружающих&lt;/li&gt;
+&lt;li&gt;Научная презентация &amp;mdash; рабочий инструмент исследователя&lt;/li&gt;
+&lt;li&gt;Необходимо создавать презентацию быстро&lt;/li&gt;
+&lt;li&gt;Желательна минимизация усилий для создания презентации&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.2 Объект и предмет исследования:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Презентация как текст&lt;/li&gt;
+&lt;li&gt;Программное обеспечение для создания презентаций&lt;/li&gt;
+&lt;li&gt;Входные и выходные форматы презентаций&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.3 Цели и задачи:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Создать шаблон презентации в Markdown&lt;/li&gt;
+&lt;li&gt;Описать алгоритм создания выходных форматов презентаций&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.4 Материалы и методы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Процессор &lt;code&gt;pandoc&lt;/code&gt; для входного формата Markdown&lt;/li&gt;
+&lt;li&gt;Результирующие форматы
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;pdf&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;html&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Автоматизация процесса создания: &lt;code&gt;Makefile&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Основная часть.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Предлагаемое решение задач исследования с обоснованием&lt;/li&gt;
+&lt;li&gt;Основные этапы работы&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Результаты:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Не нужны все результаты&lt;/li&gt;
+&lt;li&gt;Необходимы логические связки между слайдами&lt;/li&gt;
+&lt;li&gt;Необходимо показать понимание материала&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Итоговый слайд:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Запоминается последняя фраза. © Штирлиц&lt;/li&gt;
+&lt;li&gt;Главное сообщение, которое вы хотите донести до слушателей&lt;/li&gt;
+&lt;li&gt;Избегайте использовать последний слайд вида &lt;em&gt;Спасибо за внимание&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Как прошла моя неделя? 28.03.2024</title>
       <link>https://example.com/post/week-2/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
@@ -311,7 +411,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-813549627&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-873169542&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -321,7 +421,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-813549627&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-873169542&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
