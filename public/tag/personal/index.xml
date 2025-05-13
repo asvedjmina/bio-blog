@@ -5,12 +5,23 @@
     <link>https://example.com/tag/personal/</link>
       <atom:link href="https://example.com/tag/personal/index.xml" rel="self" type="application/rss+xml" />
     <description>Personal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Personal</title>
       <link>https://example.com/tag/personal/</link>
     </image>
+    
+    <item>
+      <title>Прохождение курса по криптографии 13.05.25</title>
+      <link>https://example.com/post/stepik_course/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/stepik_course/</guid>
+      <description>&lt;h2 id=&#34;что-было&#34;&gt;Что было?&lt;/h2&gt;
+&lt;p&gt;Сегодня я закончила прохождение курса &amp;ldquo;Основы кибербезопасности&amp;rdquo; от БФУ им. Канта на платформе stepik. К сожалению, сертификат не выдавался, поэтому прикрепляю скриншот.&lt;/p&gt;
+&lt;p&gt;![certificate](Screenshot from 2025-05-13 19-36-52.png)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Как прошла моя неделя? 26.04.2024</title>

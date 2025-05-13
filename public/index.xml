@@ -33,6 +33,17 @@
     </item>
     
     <item>
+      <title>Прохождение курса по криптографии 13.05.25</title>
+      <link>https://example.com/post/stepik_course/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/stepik_course/</guid>
+      <description>&lt;h2 id=&#34;что-было&#34;&gt;Что было?&lt;/h2&gt;
+&lt;p&gt;Сегодня я закончила прохождение курса &amp;ldquo;Основы кибербезопасности&amp;rdquo; от БФУ им. Канта на платформе stepik. К сожалению, сертификат не выдавался, поэтому прикрепляю скриншот.&lt;/p&gt;
+&lt;p&gt;![certificate](Screenshot from 2025-05-13 19-36-52.png)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Как прошла моя неделя? 26.04.2024</title>
       <link>https://example.com/post/week-3/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
@@ -411,7 +422,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-873169542&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-261835947&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -421,7 +432,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-873169542&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-261835947&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
