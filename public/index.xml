@@ -33,7 +33,1612 @@
     </item>
     
     <item>
-      <title>Прохождение курса по криптографии 13.05.25</title>
+      <title>Внешний курс по основам кибербезопасности. Этап 1</title>
+      <link>http://localhost:1313/project/step1/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/step1/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Выполнить задания первой части курса по кибербезопасности.&lt;/p&gt;
+&lt;h1 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h1&gt;
+&lt;p&gt;UPD, TCP, IP - протоколы других уровней.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-27_huc7bbdb1872dbf3c0efb43cf3cb9d030a_30279_3de9c849be610d5dbf2371143fd27845.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-27_huc7bbdb1872dbf3c0efb43cf3cb9d030a_30279_364165b77acca8fa6d35cdb97bfe8e1c.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-27_huc7bbdb1872dbf3c0efb43cf3cb9d030a_30279_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-20-27_huc7bbdb1872dbf3c0efb43cf3cb9d030a_30279_3de9c849be610d5dbf2371143fd27845.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;TCP вне всяких сомнений transmission - транспортный уровень.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-30_huf46bf9efaef1d8e0180dbcadfbdb43e0_36377_fab1974f7bb84dac894a36bfa150af46.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-30_huf46bf9efaef1d8e0180dbcadfbdb43e0_36377_23408f50ba5e5b97dce1ff8a2407fc50.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-30_huf46bf9efaef1d8e0180dbcadfbdb43e0_36377_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-20-30_huf46bf9efaef1d8e0180dbcadfbdb43e0_36377_fab1974f7bb84dac894a36bfa150af46.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В ip число между точками не больше 255.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-34_hu606b9f8ed88d4bb0e096b8f25c730c43_50749_0f8641a240e3eed63d059bd630aaf02a.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-34_hu606b9f8ed88d4bb0e096b8f25c730c43_50749_ecf2df713ad6234f6b47a5d011c55fd6.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-34_hu606b9f8ed88d4bb0e096b8f25c730c43_50749_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-20-34_hu606b9f8ed88d4bb0e096b8f25c730c43_50749_0f8641a240e3eed63d059bd630aaf02a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;DNS сервер преобразует имена в адреса.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-40_hu200b76ce9742054c1309137d7b1e78d6_43646_b35f1834df978cd0e3ee23092b6b58d5.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-40_hu200b76ce9742054c1309137d7b1e78d6_43646_1ee14978665c94aca7109463f8a88891.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-40_hu200b76ce9742054c1309137d7b1e78d6_43646_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-20-40_hu200b76ce9742054c1309137d7b1e78d6_43646_b35f1834df978cd0e3ee23092b6b58d5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Протоколы действительно распределены по уровням, идущим в таком порядке.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-44_hu989da2fcc590ffd07426aa56f55bdd36_51074_574fbdc630ad835ce0babe3256244ba3.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-44_hu989da2fcc590ffd07426aa56f55bdd36_51074_5aacef5c037744a6a4eb01c0d35e59f3.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-44_hu989da2fcc590ffd07426aa56f55bdd36_51074_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-20-44_hu989da2fcc590ffd07426aa56f55bdd36_51074_574fbdc630ad835ce0babe3256244ba3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В http данные в открытом виде, в https - в закрытом.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-47_hu635c6ec6d7dfbecd61c64e0c7cef2861_44218_0b4a86476197987132b3c72641b2915e.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-47_hu635c6ec6d7dfbecd61c64e0c7cef2861_44218_93c705d6097e3f342fe5d297b9bc2a71.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-47_hu635c6ec6d7dfbecd61c64e0c7cef2861_44218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-20-47_hu635c6ec6d7dfbecd61c64e0c7cef2861_44218_0b4a86476197987132b3c72641b2915e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;HTTPS включает две фазы - рукопожатие и передачу данных.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-50_huaa40aeac644126e18522db6a39e05689_54622_28813b8c3551a731dd4299dba851777e.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-50_huaa40aeac644126e18522db6a39e05689_54622_a2f80b0e1bb3a822705bc8cfa44d4013.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-50_huaa40aeac644126e18522db6a39e05689_54622_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-20-50_huaa40aeac644126e18522db6a39e05689_54622_28813b8c3551a731dd4299dba851777e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Это согласовывается клиентом и сервером.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-53_hu27e8f7f06d77b28cf7368ebae866215b_39864_89adaba8b4e204eb115bc63a7a922a68.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-53_hu27e8f7f06d77b28cf7368ebae866215b_39864_2d8f9aa41565a302d8d7b31aa34d0951.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-53_hu27e8f7f06d77b28cf7368ebae866215b_39864_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-20-53_hu27e8f7f06d77b28cf7368ebae866215b_39864_89adaba8b4e204eb115bc63a7a922a68.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Шифрования данных нет врукопожатии.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-56_hu1dd28662084663ba1c7cb60f2d624b5b_53060_e6a245858537502934101d2270c6a382.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-56_hu1dd28662084663ba1c7cb60f2d624b5b_53060_94e20b0d1955943c6c3915f0f948ece7.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-20-56_hu1dd28662084663ba1c7cb60f2d624b5b_53060_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-20-56_hu1dd28662084663ba1c7cb60f2d624b5b_53060_e6a245858537502934101d2270c6a382.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Куки используются для персонализации контента, им не нужны пароли и ip.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-17_hu20ffab1fb1b0ccc84ecc9d8c2e702d24_49896_258e2124f85a6afba5ca88e0621673b3.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-17_hu20ffab1fb1b0ccc84ecc9d8c2e702d24_49896_b83f00b6731a6378eb64bfd85c92ca6d.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-17_hu20ffab1fb1b0ccc84ecc9d8c2e702d24_49896_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-21-17_hu20ffab1fb1b0ccc84ecc9d8c2e702d24_49896_258e2124f85a6afba5ca88e0621673b3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;445&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Как отмечено ранее, у куки другие цели.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-23_hu65938740efa027b8ee4b6a15bc0097a9_51145_5a338ca79239b1a5c1ff1c78d1182e97.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-23_hu65938740efa027b8ee4b6a15bc0097a9_51145_2d80f6af54d5fd6176b300df78de441f.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-23_hu65938740efa027b8ee4b6a15bc0097a9_51145_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-21-23_hu65938740efa027b8ee4b6a15bc0097a9_51145_5a338ca79239b1a5c1ff1c78d1182e97.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;465&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Сервер создает куки.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-27_hub7500b4e0e1e4d315f78572872600d17_32450_aa6c14a7afd6d43a4f0287936b3ed87f.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-27_hub7500b4e0e1e4d315f78572872600d17_32450_e472b39337c270dc3fb52c24ba5f05d8.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-27_hub7500b4e0e1e4d315f78572872600d17_32450_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-21-27_hub7500b4e0e1e4d315f78572872600d17_32450_aa6c14a7afd6d43a4f0287936b3ed87f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;465&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Сессионные куки очищаются после завершения сессии.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-31_hu5784ae52ae6aeeb81d3d6bb7c4398e65_43029_183db3c3f0f1dd056e4f947a1b0eb646.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-31_hu5784ae52ae6aeeb81d3d6bb7c4398e65_43029_b1c6e723f2f65533820b35118fc40e22.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-31_hu5784ae52ae6aeeb81d3d6bb7c4398e65_43029_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-21-31_hu5784ae52ae6aeeb81d3d6bb7c4398e65_43029_183db3c3f0f1dd056e4f947a1b0eb646.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;465&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Всего три узла - входной, промежуточный, выходной.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-37_hu2ecec862f18323dcb0106125de36c2a2_32801_5eec8f2ab9f7fc1d5b31ba70cbac8935.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-37_hu2ecec862f18323dcb0106125de36c2a2_32801_fdd28de7cf5615fa4924e3fcad73c7b2.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-37_hu2ecec862f18323dcb0106125de36c2a2_32801_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-21-37_hu2ecec862f18323dcb0106125de36c2a2_32801_5eec8f2ab9f7fc1d5b31ba70cbac8935.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;465&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;IP скрыт от охранного и промежуточного узла.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-41_hu8d95b11664a750ef26818743f3fb077f_52691_84bfdbe7577f30c455dd28ef3509b163.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-41_hu8d95b11664a750ef26818743f3fb077f_52691_b53b33caecd3dfb1eb89bd6d7f5a758d.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-41_hu8d95b11664a750ef26818743f3fb077f_52691_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-21-41_hu8d95b11664a750ef26818743f3fb077f_52691_84bfdbe7577f30c455dd28ef3509b163.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;465&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Общий ключ создается со всеми узлами.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-44_huc4124659318a8651ce94435aaa84f87d_48828_e37e6bfdb045e8c3bcbd53369e1629cb.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-44_huc4124659318a8651ce94435aaa84f87d_48828_6bdcc596cd2901e8ca8ddbf612bc2dff.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-44_huc4124659318a8651ce94435aaa84f87d_48828_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-21-44_huc4124659318a8651ce94435aaa84f87d_48828_e37e6bfdb045e8c3bcbd53369e1629cb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;465&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Это необязательно.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-47_hu983d462ca8f1312ae7af227441b3edf4_37679_dc74c7b92cbf8a6aab8354c000aeacf2.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-47_hu983d462ca8f1312ae7af227441b3edf4_37679_41385751df7e94874c9c8e6893fcfe12.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-47_hu983d462ca8f1312ae7af227441b3edf4_37679_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-21-47_hu983d462ca8f1312ae7af227441b3edf4_37679_dc74c7b92cbf8a6aab8354c000aeacf2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;465&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;По определению:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-57_hu33177df295a76eab89b09f7cfb6cf1ff_49518_2fdf01d4a08b73d2f43d7d548f9212c1.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-57_hu33177df295a76eab89b09f7cfb6cf1ff_49518_f514e325b3fe93a13024e417075413a0.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-21-57_hu33177df295a76eab89b09f7cfb6cf1ff_49518_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-21-57_hu33177df295a76eab89b09f7cfb6cf1ff_49518_2fdf01d4a08b73d2f43d7d548f9212c1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Канальный, обеспечивает доступ в сеть.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-00_hu76e88156d7fcd54830b123973dd9c612_36378_debcc8a67c87fa4f79e5ec2164496d41.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-00_hu76e88156d7fcd54830b123973dd9c612_36378_bc0cd289620491dffbb5a8d9a6239e4d.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-00_hu76e88156d7fcd54830b123973dd9c612_36378_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-22-00_hu76e88156d7fcd54830b123973dd9c612_36378_debcc8a67c87fa4f79e5ec2164496d41.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Устаревший протокол, легко взломать.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-03_hu660e1fcfb72e0b22aecd431b39744692_36581_07a2473c7d3f2dd400781be0a726b0fb.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-03_hu660e1fcfb72e0b22aecd431b39744692_36581_a38d3db5615ccbd548c0fa67d57bb02b.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-03_hu660e1fcfb72e0b22aecd431b39744692_36581_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-22-03_hu660e1fcfb72e0b22aecd431b39744692_36581_07a2473c7d3f2dd400781be0a726b0fb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Сначала аутентифицируют, потом передают данные.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-06_hucb029777c16d0374f818796216b16d45_55865_6389e8304d6ddda07d0c6a90762e6d18.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-06_hucb029777c16d0374f818796216b16d45_55865_58d857e83d36e4e4b5cab5489f61709c.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-06_hucb029777c16d0374f818796216b16d45_55865_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-22-06_hucb029777c16d0374f818796216b16d45_55865_6389e8304d6ddda07d0c6a90762e6d18.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Из названия понятно, что personal для личного пользования.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-09_hueb0905734025dba5000ba38949bc80a1_38202_1c0a4adf672f31399090fbc805656b63.webp 400w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-09_hueb0905734025dba5000ba38949bc80a1_38202_c75e1f8e394fdef62a88e0dd31da182b.webp 760w,
+               /project/step1/image/Screenshot_from_2025-05-13_19-22-09_hueb0905734025dba5000ba38949bc80a1_38202_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step1/image/Screenshot_from_2025-05-13_19-22-09_hueb0905734025dba5000ba38949bc80a1_38202_1c0a4adf672f31399090fbc805656b63.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Все задания выполнены.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Внешний курс по основам кибербезопасности. Этап 2</title>
+      <link>http://localhost:1313/project/step2/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/step2/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Выполнить задания второй части курса по кибербезопасности.&lt;/p&gt;
+&lt;h1 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h1&gt;
+&lt;p&gt;Конечно, можно. Шифрование переводит данные на диске в нераспознаваемый набор символов.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-15_hu7cda62a748165a4a911b720c856ef4fd_33710_b72588b12da035e54569ebfdc29206a2.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-15_hu7cda62a748165a4a911b720c856ef4fd_33710_cf506bec5c5d6b1c4b1e33ea3790ec64.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-15_hu7cda62a748165a4a911b720c856ef4fd_33710_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-22-15_hu7cda62a748165a4a911b720c856ef4fd_33710_b72588b12da035e54569ebfdc29206a2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Используется симметричное шифрование.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-19_hu2d599956975dafc792e7528f5c37978c_38228_95f42e2c0eda79116ea432016e41e2ab.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-19_hu2d599956975dafc792e7528f5c37978c_38228_4e6e705a97821d4691d8bf57d73a3387.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-19_hu2d599956975dafc792e7528f5c37978c_38228_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-22-19_hu2d599956975dafc792e7528f5c37978c_38228_95f42e2c0eda79116ea432016e41e2ab.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Bitlocker, vercrypt, есть и много иных.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-30_hu0752cafa0e4ee781bc72e183c1798a95_54056_37e9991d10cb53ca9d1a7b0499c6b4df.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-30_hu0752cafa0e4ee781bc72e183c1798a95_54056_16a0284e44c0f4421db38055b49f823a.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-30_hu0752cafa0e4ee781bc72e183c1798a95_54056_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-22-30_hu0752cafa0e4ee781bc72e183c1798a95_54056_37e9991d10cb53ca9d1a7b0499c6b4df.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Пароль должен состоять из разнородных символов и быть сложным для подбора.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-55_hue94125dfdc083fbaffb8e8bcf6f25fb9_37987_e28698f4c43233dd784a15fb4e6ad860.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-55_hue94125dfdc083fbaffb8e8bcf6f25fb9_37987_a9ed6a8ec601c2cb1dddbddcb7657215.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-22-55_hue94125dfdc083fbaffb8e8bcf6f25fb9_37987_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-22-55_hue94125dfdc083fbaffb8e8bcf6f25fb9_37987_e28698f4c43233dd784a15fb4e6ad860.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В прочих перечисленных вариантах пароль легко украсть.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-23-09_huc9675ab032c9e7d69849331a01c1889d_46686_9790a8ac5b3e1259848c5ec0922e8c95.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-23-09_huc9675ab032c9e7d69849331a01c1889d_46686_f12ad402e2e08fd031fa630e492b8bf6.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-23-09_huc9675ab032c9e7d69849331a01c1889d_46686_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-23-09_huc9675ab032c9e7d69849331a01c1889d_46686_9790a8ac5b3e1259848c5ec0922e8c95.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;453&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Капча смотрит подозрительные действия и спрашивает, робот вы или нет.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-23-43_hud3d29eea3d57c759ec6d25ba46a4a2e1_49955_76a82dd74d5d845fea23e053ed0befc3.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-23-43_hud3d29eea3d57c759ec6d25ba46a4a2e1_49955_2b66edcfe9e6213d485c8ff1ad0f5296.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-23-43_hud3d29eea3d57c759ec6d25ba46a4a2e1_49955_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-23-43_hud3d29eea3d57c759ec6d25ba46a4a2e1_49955_76a82dd74d5d845fea23e053ed0befc3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для их безопасности. хэш сложно взломать.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-24-05_hu38375a27d37b0a4e7626f88443f662cf_54576_41c3d0a46029cb0c8f1e467f6752b27b.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-24-05_hu38375a27d37b0a4e7626f88443f662cf_54576_18b13855b24fa392662baf986654eddd.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-24-05_hu38375a27d37b0a4e7626f88443f662cf_54576_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-24-05_hu38375a27d37b0a4e7626f88443f662cf_54576_41c3d0a46029cb0c8f1e467f6752b27b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Не поможет.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-24-59_hu5f7c36bf38b05f280d3e359764647a75_35231_152790ad415fa5a8cd737f3375524c22.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-24-59_hu5f7c36bf38b05f280d3e359764647a75_35231_790909391dccc87784a8226e9be5b0bd.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-24-59_hu5f7c36bf38b05f280d3e359764647a75_35231_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-24-59_hu5f7c36bf38b05f280d3e359764647a75_35231_152790ad415fa5a8cd737f3375524c22.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Все перечисленные варианты весьма эфеективны.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-25-24_hu9ed5c82e9f02a3775657338a40c66a2f_59788_99ed032685850f29cae423dd1cf89251.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-25-24_hu9ed5c82e9f02a3775657338a40c66a2f_59788_c7579b75c06648cb6c28fd46b3bbbf2f.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-25-24_hu9ed5c82e9f02a3775657338a40c66a2f_59788_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-25-24_hu9ed5c82e9f02a3775657338a40c66a2f_59788_99ed032685850f29cae423dd1cf89251.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Есть отличия от оригинальных ссылок у сбера и яндекса.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-26-27_hu4811de95de8da17f3e9aa7bed115ace6_86389_9c7bdfb0e540154a53b4e1eaa0cff3c5.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-26-27_hu4811de95de8da17f3e9aa7bed115ace6_86389_4b464e04f07f3ed1fd34d44156cfa951.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-26-27_hu4811de95de8da17f3e9aa7bed115ace6_86389_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-26-27_hu4811de95de8da17f3e9aa7bed115ace6_86389_9c7bdfb0e540154a53b4e1eaa0cff3c5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Да, знакомый адрес могут взломать.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-26-38_hu3e5992f8ebc953fc4f63c4860f9371ee_34124_88806eb4d34b07e12345fd82b8b8c484.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-26-38_hu3e5992f8ebc953fc4f63c4860f9371ee_34124_d734fc619e5d1e40e1b3005f38ff3d40.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-26-38_hu3e5992f8ebc953fc4f63c4860f9371ee_34124_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-26-38_hu3e5992f8ebc953fc4f63c4860f9371ee_34124_88806eb4d34b07e12345fd82b8b8c484.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;414&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;От английского spoof — обман, подделка.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-27-40_hu2b619c4885a5cb0afe029605c1bb76b5_42475_da822d869dab7db788fa5f03c6b4e0bd.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-27-40_hu2b619c4885a5cb0afe029605c1bb76b5_42475_2cf611900d0083890f8df45ecc1521c7.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-27-40_hu2b619c4885a5cb0afe029605c1bb76b5_42475_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-27-40_hu2b619c4885a5cb0afe029605c1bb76b5_42475_da822d869dab7db788fa5f03c6b4e0bd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;На то он и троян, что маскируется и сразу не поймёшь, что это вирус.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-28-40_hu5e283ada7c8a31f05c360c55a738a9b9_46286_fb4e8d546ae8aa206508904614748a78.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-28-40_hu5e283ada7c8a31f05c360c55a738a9b9_46286_9a4741848d125fcb0261bd0db1e4c7a6.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-28-40_hu5e283ada7c8a31f05c360c55a738a9b9_46286_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-28-40_hu5e283ada7c8a31f05c360c55a738a9b9_46286_fb4e8d546ae8aa206508904614748a78.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Сразу же при первом сообщении.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-29-10_hu9f236db783fc16d65a8b0b3c5d444da0_49218_ca34e4a8e040336f07cc3f05a7cf7185.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-29-10_hu9f236db783fc16d65a8b0b3c5d444da0_49218_6061486bc73686fb6340ba921869e056.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-29-10_hu9f236db783fc16d65a8b0b3c5d444da0_49218_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-29-10_hu9f236db783fc16d65a8b0b3c5d444da0_49218_ca34e4a8e040336f07cc3f05a7cf7185.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Данные в зашифрованном виде передаются по узлам.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step2/image/Screenshot_from_2025-05-13_19-29-23_huecb9f567c02292f3c0a98fad872cd6eb_57001_9d56471b698dce4e31b8b53849c16a0a.webp 400w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-29-23_huecb9f567c02292f3c0a98fad872cd6eb_57001_984ff4e99b7d675a1bfdfb509d568528.webp 760w,
+               /project/step2/image/Screenshot_from_2025-05-13_19-29-23_huecb9f567c02292f3c0a98fad872cd6eb_57001_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step2/image/Screenshot_from_2025-05-13_19-29-23_huecb9f567c02292f3c0a98fad872cd6eb_57001_9d56471b698dce4e31b8b53849c16a0a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Все задания выполнены.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Внешний курс по основам кибербезопасности. Этап 3</title>
+      <link>http://localhost:1313/project/step3/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/step3/</guid>
+      <description>&lt;h1 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h1&gt;
+&lt;p&gt;Выполнить задания третьей части курса по кибербезопасности.&lt;/p&gt;
+&lt;h1 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h1&gt;
+&lt;p&gt;Два ключа - исходя из определения ассимитричного шифрования.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-30-21_hu722bdd5b18b0c784bf9c7478f49d9e56_53069_f2c86a707a714ffcc53b45a2359e2ed3.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-30-21_hu722bdd5b18b0c784bf9c7478f49d9e56_53069_bc328fe933ac34c5ca938e34e603c0c0.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-30-21_hu722bdd5b18b0c784bf9c7478f49d9e56_53069_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-30-21_hu722bdd5b18b0c784bf9c7478f49d9e56_53069_f2c86a707a714ffcc53b45a2359e2ed3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;По свойствам хэш-функции.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-31-21_hu4f54228e9d4739bf44f3886fb7ddef06_61634_71f6184c180454d866a51194a81afc9b.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-31-21_hu4f54228e9d4739bf44f3886fb7ddef06_61634_05ad0152adc09e02e51520fc40b6bbb4.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-31-21_hu4f54228e9d4739bf44f3886fb7ddef06_61634_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-31-21_hu4f54228e9d4739bf44f3886fb7ddef06_61634_71f6184c180454d866a51194a81afc9b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;454&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Алгоритмы:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-31-57_hua5eff65a9519ecc4dd3b6cb374fc076e_53881_cfc7fb005b87dbb10017eeb867c9d439.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-31-57_hua5eff65a9519ecc4dd3b6cb374fc076e_53881_fb38d8642c755c10c46cbefabd12ff95.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-31-57_hua5eff65a9519ecc4dd3b6cb374fc076e_53881_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-31-57_hua5eff65a9519ecc4dd3b6cb374fc076e_53881_cfc7fb005b87dbb10017eeb867c9d439.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Так как для шифровки и дешифровки используется один и тот же ключ.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-32-22_hu4bb940fe84f388df1ee5d493b4a18f56_41255_79845f1641eb45774552614accea02b4.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-32-22_hu4bb940fe84f388df1ee5d493b4a18f56_41255_5d708e1a066344a34b259915a22cd8e2.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-32-22_hu4bb940fe84f388df1ee5d493b4a18f56_41255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-32-22_hu4bb940fe84f388df1ee5d493b4a18f56_41255_79845f1641eb45774552614accea02b4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;По определению этого алгоритма.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-32-56_hu25a804487f1381e6d3f7f411db07a58e_59697_46a7e44fdeb7a2468f41a43902e90704.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-32-56_hu25a804487f1381e6d3f7f411db07a58e_59697_43f71a98c054b68c0cd57a6b8735e82b.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-32-56_hu25a804487f1381e6d3f7f411db07a58e_59697_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-32-56_hu25a804487f1381e6d3f7f411db07a58e_59697_46a7e44fdeb7a2468f41a43902e90704.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Потому что используется ассиметричное шифрование.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-14_hua89612494f5c7b5079bffea4d3dea91e_46242_5adef30dcdfab0b7e010c0ddf5e2ca26.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-14_hua89612494f5c7b5079bffea4d3dea91e_46242_91a5ef6d1c12c312c2ad9fe8f1cd1e0f.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-14_hua89612494f5c7b5079bffea4d3dea91e_46242_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-33-14_hua89612494f5c7b5079bffea4d3dea91e_46242_5adef30dcdfab0b7e010c0ddf5e2ca26.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Подписанное сообщение проверяется открытым ключом.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-34_hu43d7b1a2621177d9938228ad0da6c853_53001_c89f9e8f59de22d1c05a13cc10ad3c90.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-34_hu43d7b1a2621177d9938228ad0da6c853_53001_4fb3281770495850b901aa4297dbd451.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-34_hu43d7b1a2621177d9938228ad0da6c853_53001_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-33-34_hu43d7b1a2621177d9938228ad0da6c853_53001_c89f9e8f59de22d1c05a13cc10ad3c90.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Она наоборот гарантирует, что можно определить, кто подписал.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-46_hu857eb8b1b1af69d929aa7c4c8bfa4b21_45592_d62f128d1f672eca1aa5eb261717f386.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-46_hu857eb8b1b1af69d929aa7c4c8bfa4b21_45592_3f80aad3d9884182854aaeb41abb1f33.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-46_hu857eb8b1b1af69d929aa7c4c8bfa4b21_45592_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-33-46_hu857eb8b1b1af69d929aa7c4c8bfa4b21_45592_d62f128d1f672eca1aa5eb261717f386.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Так как в налоговую нужны юридически значимые документы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-56_huced6fb642b96a3fd7cf010739cff4a76_48878_1b90100a15057c753f91a788c5da356d.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-56_huced6fb642b96a3fd7cf010739cff4a76_48878_2ed8839985b6e526ee89e8558ee75649.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-33-56_huced6fb642b96a3fd7cf010739cff4a76_48878_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-33-56_huced6fb642b96a3fd7cf010739cff4a76_48878_1b90100a15057c753f91a788c5da356d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В сертифицированном центре.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-34-09_hu2b3043c327cb77bfdbf06531307384ef_59920_0f6fe7e37ddf7ab6f3008d7d1e857685.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-34-09_hu2b3043c327cb77bfdbf06531307384ef_59920_d1c5e5d7dac2db8fb3ff5c706915a81f.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-34-09_hu2b3043c327cb77bfdbf06531307384ef_59920_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-34-09_hu2b3043c327cb77bfdbf06531307384ef_59920_0f6fe7e37ddf7ab6f3008d7d1e857685.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;МИР и Mastercard всем известны.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-34-43_hu7f7a8a496340d6984d57915da45e8175_54514_6294b2a6c4c10b480826a2c82e4fc3f1.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-34-43_hu7f7a8a496340d6984d57915da45e8175_54514_6697f17ff34181724437ec26253b5514.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-34-43_hu7f7a8a496340d6984d57915da45e8175_54514_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-34-43_hu7f7a8a496340d6984d57915da45e8175_54514_6294b2a6c4c10b480826a2c82e4fc3f1.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Отметила верные методы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-35-05_huf62997b85b0d857229ebcb65dd978f63_69331_99fc415dcdb3a3afa48c2885a2e66e9b.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-35-05_huf62997b85b0d857229ebcb65dd978f63_69331_d747d0ea38472d227346b0718eb6713d.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-35-05_huf62997b85b0d857229ebcb65dd978f63_69331_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-35-05_huf62997b85b0d857229ebcb65dd978f63_69331_99fc415dcdb3a3afa48c2885a2e66e9b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Используется многофакторная аутентификация.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-35-21_huf97c910561740d27720c4b719fc81474_61107_1a106657be0c3294ed425fed3e2eb622.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-35-21_huf97c910561740d27720c4b719fc81474_61107_caf5f5d7554534e1e6adc5a9852aadba.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-35-21_huf97c910561740d27720c4b719fc81474_61107_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-35-21_huf97c910561740d27720c4b719fc81474_61107_1a106657be0c3294ed425fed3e2eb622.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Прообраз действительно сложно найти, поэтому она надёжна.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-35-44_hu62d21f7ab5801ff4d656fe3b378c21ac_53556_36dcfbf08a39546333c81d85274a6962.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-35-44_hu62d21f7ab5801ff4d656fe3b378c21ac_53556_e2bdf13b579927ab7d4d02536b79363e.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-35-44_hu62d21f7ab5801ff4d656fe3b378c21ac_53556_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-35-44_hu62d21f7ab5801ff4d656fe3b378c21ac_53556_36dcfbf08a39546333c81d85274a6962.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;По свойствам консенсуса.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-36-20_hub34fabc3cdb8486529ab54155a89a870_57748_382190ccca70c1ff7fa78fc2c3730c25.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-36-20_hub34fabc3cdb8486529ab54155a89a870_57748_4b075766740ce5b8e5c2260a75c0e996.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-36-20_hub34fabc3cdb8486529ab54155a89a870_57748_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-36-20_hub34fabc3cdb8486529ab54155a89a870_57748_382190ccca70c1ff7fa78fc2c3730c25.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Они хранят цифровые подписи.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-36-33_hua3278e8279f8c92496255c15f7f0c894_44106_82f686a1a7a1651a7c1abef8bb7b9d1d.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-36-33_hua3278e8279f8c92496255c15f7f0c894_44106_47a22057602608801ee8573e8e2873c0.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-36-33_hua3278e8279f8c92496255c15f7f0c894_44106_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-36-33_hua3278e8279f8c92496255c15f7f0c894_44106_82f686a1a7a1651a7c1abef8bb7b9d1d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Ура, я завершила курс!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/step3/image/Screenshot_from_2025-05-13_19-36-52_hudd7b3955e7df3f0dca0e18282e8ac3b4_183817_64936a929438a5036b1897041eb0aa8f.webp 400w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-36-52_hudd7b3955e7df3f0dca0e18282e8ac3b4_183817_ff2ca6b272d6c4bbedd3e0507811983e.webp 760w,
+               /project/step3/image/Screenshot_from_2025-05-13_19-36-52_hudd7b3955e7df3f0dca0e18282e8ac3b4_183817_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/step3/image/Screenshot_from_2025-05-13_19-36-52_hudd7b3955e7df3f0dca0e18282e8ac3b4_183817_64936a929438a5036b1897041eb0aa8f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;389&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
+&lt;p&gt;Все задания третьей части выполнены. Курс завершён.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Прохождение курса по кибербезопасности 13.05.25</title>
       <link>http://localhost:1313/post/stepik_course/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/stepik_course/</guid>
@@ -442,7 +2047,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-234157968&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-837219654&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -452,7 +2057,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-234157968&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-837219654&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -868,19 +2473,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>http://localhost:1313/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
